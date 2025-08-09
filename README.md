@@ -1,2 +1,2 @@
 # quarentaconto
-este é o meu primeiro repositório quarenta conto
+este é o meu primeiro repositório 
